@@ -2,6 +2,7 @@
 Author: Atharv damle
 Full Problem statement: https://www.hackerrank.com/challenges/30-operators/problem
 tl;dr: Accept the base cost of a meal. Print total after adding in the tip and tax.
+*/
 
 import java.io.*;
 import java.util.*;
