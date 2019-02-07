@@ -5,7 +5,7 @@ One twist: Accept one line and print it to screen too.
 */
 import java.util.*;
 
-public class Day_0_HelloWorld {
+public class HelloWorld {
 	public static void main(String[] args) {
     	// Create a Scanner object to read input from stdin.
 	Scanner in = new Scanner(System.in); 
