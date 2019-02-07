@@ -4,10 +4,7 @@ Full Problem statement: https://www.hackerrank.com/challenges/30-operators/probl
 tl;dr: Accept the base cost of a meal. Print total after adding in the tip and tax.
 */
 
-import java.io.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
 
 public class Operators {
     static void solve(double meal_cost, int tip_percent, int tax_percent) {
