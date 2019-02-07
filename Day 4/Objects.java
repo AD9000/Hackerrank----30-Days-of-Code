@@ -1,3 +1,7 @@
+// Author: Atharv Damle
+// Create and use objects.
+// Full Question: https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+
 import java.io.*;
 import java.util.*;
 
@@ -17,9 +21,9 @@ public class Person {
 	}
 
 	public void amIOld() {
-  		// determining if this person's age is old and print the correct statement:
-      // ? is a ternary operator which has the same effect as if - else.
-      System.out.println((age >= 18)? "You are old." : (age < 13) ? "You are young." :"You are a teenager.");
+		// determining if this person's age is old and print the correct statement:
+		// ? is a ternary operator which has the same effect as if - else.
+		System.out.println((age >= 18)? "You are old." : (age < 13) ? "You are young." :"You are a teenager.");
 	}
 
 	public void yearPasses() {
