@@ -6,7 +6,7 @@ Full Problem Statement: https://www.hackerrank.com/challenges/30-conditional-sta
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class If_Else {
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
