@@ -5,7 +5,7 @@ tl;dr: Accept and print variables
 */
 import java.io.*;
 import java.util.*;
-public class Solution {
+public class DataTypes {
 	
     public static void main(String[] args) {
         int i = 4;
@@ -28,6 +28,7 @@ public class Solution {
         // IMPORTANT: Since the nextInt() and nextDouble() do not accept the '\n' character marking the end of a line, 
         // the first nextLine() does not accept the next line, but only till the end of current line when the user
         // pressed the enter key. Thus, two are used.
+	// the skip("") function could also be used. Enter characters to be skipped in the double quotes.
         z = scan.nextLine();
         z = scan.nextLine();
         
