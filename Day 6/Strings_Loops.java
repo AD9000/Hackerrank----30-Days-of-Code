@@ -7,7 +7,7 @@ tl;dr: Separate odd and even characters of entered word and print them separatel
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class Strings_Loops {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner (System.in);
