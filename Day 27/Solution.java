@@ -1,6 +1,6 @@
 // Author: Atharv Damle
 // To write tests cases to check a program...These test cases are then used in try catch blocks to confirm the output.
-// Full Question: https://www.hackerrank.com/challenges/30-binary-trees/problem
+// Full Question: https://www.hackerrank.com/challenges/30-testing/problem
 
 
 static class TestDataEmptyArray {
