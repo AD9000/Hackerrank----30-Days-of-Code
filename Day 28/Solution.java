@@ -15,7 +15,8 @@ public class Solution {
         scanner.nextLine();
 
         LinkedList<String> names = new LinkedList<String>();
-        // Load pattern
+        
+        // Load pattern: The pattern is the regex used.
         Pattern p = Pattern.compile(".*@gmail\\.com$");
 
         for (int NItr = 0; NItr < N; NItr++) {
@@ -33,6 +34,7 @@ public class Solution {
             }
         }
 
+        // Sort the names for displaying purposes. Use the Collections Library...
         Collections.sort(names);
         while(!names.isEmpty())
         {
